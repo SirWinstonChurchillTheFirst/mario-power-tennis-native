@@ -20,7 +20,7 @@ storage, controllers) is provided by the [wii-recomp runtime](https://github.com
 
 Tested with **RMAP01** (Europe (PAL), revision 0).
 
-Plays an Exhibition singles match at 60 fps, no graphics errors seen. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end.
+Plays an Exhibition singles match at 60 fps, no graphics errors seen. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: an Exhibition singles match, 58.7 fps, no frame over 34 ms). Nothing here says the game is playable to the end.
 
 Only what is written here has been tested. It has not been played to the end. Other regions
 or revisions may work but are untested.
@@ -74,7 +74,7 @@ Wii Remote (the default): mouse points, Enter is A, Backspace is B.
 ## How it's made
 
 - Runtime: [https://github.com/SirWinstonChurchillTheFirst/wii-recomp](https://github.com/SirWinstonChurchillTheFirst/wii-recomp) (branch `windows-port`, tested at
-  `bd252d728263`), a fork of [Zontex/wii-recomp](https://github.com/Zontex/wii-recomp) with
+  `25ee096b1378`), a fork of [Zontex/wii-recomp](https://github.com/Zontex/wii-recomp) with
   Windows support and the fixes this game needed. GPL-3.0-or-later.
 - Hardware behaviour follows [Dolphin](https://dolphin-emu.org) where noted in the runtime's
   CREDITS.md.
