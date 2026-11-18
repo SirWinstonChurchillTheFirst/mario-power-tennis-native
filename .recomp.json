@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays an Exhibition singles match at 60 fps, no graphics errors seen. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: an Exhibition singles match, 58.7 fps, no frame over 34 ms). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays an Exhibition singles match at 60 fps. The shadows in the match and the picture before it (both players and the \"Versus\" lettering) were held against Dolphin's picture of the same recorded frames and match it. Tested on Windows 11 and on the Linux mini PC by playing into a match (mini PC: 60.0 fps, no frame over 20 ms in 40 s). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
